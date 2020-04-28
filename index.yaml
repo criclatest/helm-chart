@@ -8,6 +8,6 @@ entries:
     digest: 25ba6d89749f42540ed932d281557d2d426c5286a6e995d2b90256741cf12bbe
     name: helm-chart-test
     urls:
-    - https://github.com/nileshbhadane123/helm-chart/helm-chart-test-0.1.0.tgz
+    - https://github.com/nileshbhadane123/helm-chart/blob/master/helm-chart-test-0.1.0.tgz
     version: 0.1.0
 generated: 2020-04-28T16:16:41.110468056-07:00
